@@ -1,8 +1,7 @@
 node_modules
 .serverless
 .firebaserc
-/node_modules
-/.pnp
-.pnp.js
 .DS_Store
+apis.json
+.env
 
